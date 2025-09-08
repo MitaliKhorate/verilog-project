@@ -27,5 +27,5 @@ Perfect for beginners learning digital design, Verilog, and simulation using **I
 ## ▶️ How to Run
 1. Open terminal in this folder.  
 2. Compile the ALU with its testbench:
-3.vvp alu_sim
-4.gtkwave alu_tb.vcd
+```bash
+iverilog -o alu_sim alu.v alu_tb.v
