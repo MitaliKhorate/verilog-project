@@ -29,3 +29,8 @@ Perfect for beginners learning digital design, Verilog, and simulation using **I
 2. Compile the ALU with its testbench:
 ```bash
 iverilog -o alu_sim alu.v alu_tb.v
+```
+
+## 🔗 Quick Access
+- [ALU Code (alu.v)](alu.v)
+- [Testbench (alu_tb.v)](alu_tb.v)
