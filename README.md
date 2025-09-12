@@ -20,7 +20,7 @@ Perfect for beginners learning digital design, Verilog, and simulation using **I
 - Subtraction  
 - Bitwise AND  
 - Bitwise OR  
-- Bitwise XOR  
+ 
 
 ---
 
